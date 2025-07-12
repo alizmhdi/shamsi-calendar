@@ -1,4 +1,4 @@
-module github.com/mhdi/shamsi-calendar
+module github.com/alizmhdi/shamsi-calendar
 
 go 1.21
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mhdi/shamsi-calendar/cmd"
+	"github.com/alizmhdi/shamsi-calendar/cmd"
 )
 
 func main() {

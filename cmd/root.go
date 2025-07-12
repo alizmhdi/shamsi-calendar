@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/mhdi/shamsi-calendar/calendar"
+	"github.com/alizmhdi/shamsi-calendar/calendar"
 
 	"github.com/spf13/cobra"
 )
