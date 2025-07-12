@@ -18,7 +18,7 @@ sudo cp scal /usr/local/bin/
 ### Using Go Install
 
 ```bash
-go install github.com/mhdi/shamsi-calendar@latest
+go install github.com/alizmhdi/shamsi-calendar@latest
 ```
 
 ## Usage
