@@ -12,13 +12,7 @@ cd shamsi-calendar
 
 go build -o scal .
 
-sudo cp scal /usr/local/bin/
-```
-
-### Using Go Install
-
-```bash
-go install github.com/alizmhdi/shamsi-calendar@latest
+sudo mv scal /usr/local/bin/
 ```
 
 ## Usage
