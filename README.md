@@ -7,7 +7,7 @@ A command-line tool to display Jalali (Shamsi) calendar, similar to the Unix `ca
 ### From Source
 
 ```bash
-git clone https://github.com/mhdi/shamsi-calendar.git
+git clone https://github.com/alizmhdi/shamsi-calendar.git
 cd shamsi-calendar
 
 go build -o scal .
