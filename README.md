@@ -15,6 +15,12 @@ go build -o scal .
 sudo mv scal /usr/local/bin/
 ```
 
+### Using Go Install
+
+```bash
+go install github.com/alizmhdi/shamsi-calendar/cmd/scal@latest
+```
+
 ## Usage
 
 ### Basic Commands
